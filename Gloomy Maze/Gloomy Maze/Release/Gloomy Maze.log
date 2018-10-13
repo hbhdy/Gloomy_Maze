@@ -1,0 +1,13 @@
+﻿  BlockSetting.cpp
+  GhostTexture.cpp
+  LoadBitmap.cpp
+  main.cpp
+  MapData.cpp
+  MapTexture.cpp
+  PlayerTexture.cpp
+  코드를 생성하고 있습니다.
+  57 of 57 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Gloomy Maze.vcxproj -> C:\Users\shtke\Documents\Visual Studio 2017\Project Files\Gloomy Maze\Release\Gloomy Maze.exe

@@ -1,0 +1,25 @@
+﻿  BlockSetting.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': 매크로 재정의
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\gl\glut.h(33): note: 'CALLBACK'의 이전 정의를 참조하십시오.
+  GhostTexture.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': 매크로 재정의
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\gl\glut.h(33): note: 'CALLBACK'의 이전 정의를 참조하십시오.
+  LoadBitmap.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': 매크로 재정의
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\gl\glut.h(33): note: 'CALLBACK'의 이전 정의를 참조하십시오.
+c:\users\shtke\documents\visual studio 2017\project files\gloomy maze\gloomy maze\loadbitmap.cpp(12): error C2664: 'AUX_RGBImageRec *auxDIBImageLoadW(LPCWSTR)': 인수 1을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\shtke\documents\visual studio 2017\project files\gloomy maze\gloomy maze\loadbitmap.cpp(12): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': 매크로 재정의
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\gl\glut.h(33): note: 'CALLBACK'의 이전 정의를 참조하십시오.
+c:\users\shtke\documents\visual studio 2017\project files\gloomy maze\gloomy maze\main.cpp(121): error C2664: 'BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)': 인수 1을(를) 'const char [23]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\shtke\documents\visual studio 2017\project files\gloomy maze\gloomy maze\main.cpp(121): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  MapData.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': 매크로 재정의
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\gl\glut.h(33): note: 'CALLBACK'의 이전 정의를 참조하십시오.
+  MapTexture.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': 매크로 재정의
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\gl\glut.h(33): note: 'CALLBACK'의 이전 정의를 참조하십시오.
+  PlayerTexture.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': 매크로 재정의
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\gl\glut.h(33): note: 'CALLBACK'의 이전 정의를 참조하십시오.
