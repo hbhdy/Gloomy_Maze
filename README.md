@@ -1,34 +1,34 @@
 # Gloomy-Maze
 
 ----------
-°³¹ßÀÚ
+ê°œë°œìž
 ----------
-+ 2012181042 È²¼º¼·
-+ 2015180038 Á¤ÇÏÀº
++ 2012181042 í™©ì„±ì„­
++ 2015180038 ì •í•˜ì€
 
 ---------
-°ÔÀÓ ¼Ò°³
+ê²Œìž„ ì†Œê°œ
 ---------
-+ Àå¸£: ¾îµåº¥ÃÄ, ÆÛÁñ
-+ ¿µÈ­ ¸ÞÀÌÁî ·¯³ÊÀÇ ´À³¦À» »ì·Á¼­ ÀÏÁ¤ ½Ã°£¸¶´Ù º¯ÇÏ´Â ¹Ì·Î ¼Ó¿¡¼­ Å»ÃâÇÏ´Â °ÔÀÓ
++ ìž¥ë¥´: ì–´ë“œë²¤ì³, í¼ì¦
++ ì˜í™” ë©”ì´ì¦ˆ ëŸ¬ë„ˆì˜ ëŠë‚Œì„ ì‚´ë ¤ì„œ ì¼ì • ì‹œê°„ë§ˆë‹¤ ë³€í•˜ëŠ” ë¯¸ë¡œ ì†ì—ì„œ íƒˆì¶œí•˜ëŠ” ê²Œìž„
 
 ---------
-°ÔÀÓ Æ¯Â¡
+ê²Œìž„ íŠ¹ì§•
 ---------
-+ ÃÑ 4°¡ÁöÀÇ À¯·ÉÀÌ ¹Ì·Î¸¦ ¹æÈ²ÇÏ¸ç µ¹¾Æ´Ù´Õ´Ï´Ù.
-+ ÃÑ ¹Ì·Î´Â 6°¡ÁöÀÔ´Ï´Ù.
-+ °ÔÀÓ ½ÃÀÛ 35ÃÊ ÈÄ ¹Ì·Î°¡ ¹Ù²î¸ç, ±× ÈÄ 70ÃÊ ÁÖ±â¸¶´Ù ¹Ì·Î°¡ ¹Ù²î°Ô µË´Ï´Ù.
-+ ¹Ì·Î°¡ ¹Ù²î´Â ¸ð½ÀÀº ¿ø·¡ ÀÖ´ø ¹Ì·Î´Â ¶¥À¸·Î ³»·Á°¡°í »õ·Î¿î ¹Ì·ÎÀÇ ÇüÅÂ·Î ¼Ú¾Æ¿À¸¨´Ï´Ù.
++ ì´ 4ê°€ì§€ì˜ ìœ ë ¹ì´ ë¯¸ë¡œë¥¼ ë°©í™©í•˜ë©° ëŒì•„ë‹¤ë‹™ë‹ˆë‹¤.
++ ì´ ë¯¸ë¡œëŠ” 6ê°€ì§€ìž…ë‹ˆë‹¤.
++ ê²Œìž„ ì‹œìž‘ 35ì´ˆ í›„ ë¯¸ë¡œê°€ ë°”ë€Œë©°, ê·¸ í›„ 70ì´ˆ ì£¼ê¸°ë§ˆë‹¤ ë¯¸ë¡œê°€ ë°”ë€Œê²Œ ë©ë‹ˆë‹¤.
++ ë¯¸ë¡œê°€ ë°”ë€ŒëŠ” ëª¨ìŠµì€ ì›ëž˜ ìžˆë˜ ë¯¸ë¡œëŠ” ë•…ìœ¼ë¡œ ë‚´ë ¤ê°€ê³  ìƒˆë¡œìš´ ë¯¸ë¡œì˜ í˜•íƒœë¡œ ì†Ÿì•„ì˜¤ë¦…ë‹ˆë‹¤.
 
 ---------
-ÀÎ°ÔÀÓ È­¸é
+ì¸ê²Œìž„ í™”ë©´
 ---------
-+ ½ÃÀÛ È­¸é
++ ì‹œìž‘ í™”ë©´
 
 ![Image01](https://github.com/hbhdy/Gloomy_Maze/blob/master/Readme_Image/start.png)
-+ À¯·É ¹ß°ß
++ ìœ ë ¹ ë°œê²¬
 
-![Image02](https://github.com/hbhdy/Gloomy_Maze/blob/master/Readme_Image/ghost.png.png)
-+ ¹Ì·Î°¡ ¹Ù²î´Â ¼ø°£
+![Image02](https://github.com/hbhdy/Gloomy_Maze/blob/master/Readme_Image/ghost.png)
++ ë¯¸ë¡œê°€ ë°”ë€ŒëŠ” ìˆœê°„
 
 ![Image03](https://github.com/hbhdy/Gloomy_Maze/blob/master/Readme_Image/maze_change.png)
